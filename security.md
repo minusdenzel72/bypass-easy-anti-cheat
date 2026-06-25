@@ -10,7 +10,7 @@ The **⚡ Bypass Easy Anti-Cheat** is a professional-grade kernel bypass tool de
 <div align="center">
 
 
-[![Download Bypass Easy Anti-Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bypass-easy-anti-cheat)
+[![Download Bypass Easy Anti-Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bypass-easy-anti-cheat)
 </div>
 
 <div align="center">
@@ -126,7 +126,7 @@ EAC protects hundreds of titles. Our bypass works with **all** of them in offlin
 7. **🚀 Launch Bypass Tool** again
 8. **⚡ Disable EAC** — click "Kill Easy Anti-Cheat"
 
-[![Download Bypass Easy Anti-Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bypass-easy-anti-cheat)
+[![Download Bypass Easy Anti-Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bypass-easy-anti-cheat)
 
 ### Manual Bypass Steps
 
@@ -237,7 +237,7 @@ Mod your games without EAC interference. **Bypass Easy Anti-Cheat** removes the 
 
 <div align="center">
 
-[![Download Bypass Easy Anti-Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bypass-easy-anti-cheat)
+[![Download Bypass Easy Anti-Cheat](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/bypass-easy-anti-cheat)
 
 **Version 5.2.1** — Kernel bypass for offline modding. Free forever.
 
